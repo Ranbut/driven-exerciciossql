@@ -6,11 +6,8 @@ Nesta prática vocês receberão um banco de dados já existente com alguns dado
 
 # Como configurar o banco
 
-1. Baixe o zip abaixo
-    
-    [desafio_sql_b672418d.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77e9f61a-88e4-4d46-9dea-accf96e80155/desafio_sql_b672418d.zip)
-    
-2. Extraia o conteúdo e abra um terminal na pasta extraída
+1. Baixe a database-fornecido
+2. Abra um terminal na pasta baixada
 3. Execute o seguinte comando para configurar o banco de dados
     
     ```bash
