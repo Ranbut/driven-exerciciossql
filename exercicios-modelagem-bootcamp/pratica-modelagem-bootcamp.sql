@@ -29,7 +29,7 @@ CREATE TABLE "deliveredProjects" (
 	"studentId" INTEGER NOT NULL REFERENCES "students"("id"),
 	"projectId" INTEGER NOT NULL REFERENCES "projects"("id"),
 	"deliveredAt" TIMESTAMP WITHOUT TIME ZONE NOT NULL DEFAULT NOW(),
-	"note" noteClassification NOT NULL
+	"note" noteClassification
 );
 
 CREATE TABLE "experiencesClasses" (
