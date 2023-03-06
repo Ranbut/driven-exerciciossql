@@ -1,0 +1,6 @@
+# Descrição
+
+Um amigo seu chamado Zuck Zuck, teve uma idéia brilhante de criar uma rede social, ele decidiu reunir algumas pessoas para que o ajudasse a modelar o banco de dados. Ele tem uma visão do que quer, e é a seguinte: Sua rede vai ter usuários e esses usuários podem ter posts, e os respectivos posts podem ter imagens associadas a ele, e também ter comentários, likes e dislikes. Os comentários dos posts podem ter likes e dislikes também.Há outra coisa os comentários podem ou não haver menções a outros usuários. Os usuários também podem ter amigos e podem inclusive bloquear pessoas, também podem ter álbuns de fotos, e o seu perfil deve ter uma breve descrição sobre ele, sua foto principal e seu endereço único. Já ia esquecendo, Zuck Zuck também disse que ele gostaria de ter a opção de bloquear qualquer usuário que ele quiser. Sem pressão, mas o Zuck gostaria muito, mas muito mesmo, que o usuário tivesse a possibilidade de fazer anúncio e que o mesmo tivesse categorias e um status para saber se está disponível, pausado ou já foi vendido.
+
+### Estrutura do banco feita
+<img src="https://raw.githubusercontent.com/Ranbut/driven-exerciciossql/main/exercicios-rede-social/db-rede-social.png" alt="db"/>
